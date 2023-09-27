@@ -2,4 +2,4 @@
 
 First git repo
 <br>
-Author - Dharmender 
+Author - Dharmender Pal
